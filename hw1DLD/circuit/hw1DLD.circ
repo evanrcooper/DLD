@@ -8,16 +8,9 @@
     </tool>
   </lib>
   <lib desc="#Gates" name="1"/>
-  <lib desc="#Plexers" name="2"/>
   <lib desc="#Arithmetic" name="3"/>
   <lib desc="#Memory" name="4"/>
-  <lib desc="#I/O" name="5"/>
-  <lib desc="#TTL" name="6"/>
-  <lib desc="#TCL" name="7"/>
   <lib desc="#Base" name="8"/>
-  <lib desc="#BFH-Praktika" name="9"/>
-  <lib desc="#Input/Output-Extra" name="10"/>
-  <lib desc="#Soc" name="11"/>
   <main name="main"/>
   <options>
     <a name="gateUndefined" val="ignore"/>
